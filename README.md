@@ -1,5 +1,5 @@
-# THIS IS MY LOCAL REPO.
-This is my second git repo.
+# This is my local repo.
+This is my second repository!
 <br>
-Author: Eman Khalid
-I am trying to learn and grow!
+Author EmanKhalid201
+<br>I am trying to learn and grow!
